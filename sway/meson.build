@@ -149,6 +149,9 @@ sway_sources = files(
 	'commands/output/scale.c',
 	'commands/output/transform.c',
 
+	'commands/permit.c',
+	'commands/reject.c',
+
 	'tree/arrange.c',
 	'tree/container.c',
 	'tree/node.c',
